@@ -7,15 +7,10 @@ public class ProbaClass {
         System.out.println("Hello world");
         seyHello( "Ivana");
 
-<<<<<<< HEAD
-        System.out.println("Bobi");
-        System.out.println("proba2");
-        System.out.println("proba3");
+        System.out.println("Bobi proba");
+        System.out.println("proba1106");
+        
 
-
-
-=======
->>>>>>> parent of 164253b (promena 2/2/2023 update ProbaClass)
     }
 
     String a;
