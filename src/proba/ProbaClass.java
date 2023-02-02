@@ -7,6 +7,8 @@ public class ProbaClass {
         System.out.println("Hello world");
         seyHello( "Ivana");
 
+        System.out.println("Bobi")
+
     }
 
     String a;
